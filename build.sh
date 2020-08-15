@@ -1,1 +1,1 @@
-docker build -t liaracloud/supercronic:0.1.11 .
+docker build -t liaracloud/supercronic:v0.1.11 .
